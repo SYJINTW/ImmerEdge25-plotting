@@ -1,0 +1,145 @@
+{
+  "sequence_id": "GMU_GMUjcScEn_02",
+  "correct": 93,
+  "total": 220,
+  "accuracy": 0.4227,
+  "accuracy_percent": "42.27%",
+  "per_id": {
+    "1": {
+      "correct": 2,
+      "total": 9,
+      "accuracy": 0.2222,
+      "accuracy_percent": "22.22%"
+    },
+    "10": {
+      "correct": 3,
+      "total": 10,
+      "accuracy": 0.3,
+      "accuracy_percent": "30.00%"
+    },
+    "11": {
+      "correct": 3,
+      "total": 9,
+      "accuracy": 0.3333,
+      "accuracy_percent": "33.33%"
+    },
+    "12": {
+      "correct": 6,
+      "total": 9,
+      "accuracy": 0.6667,
+      "accuracy_percent": "66.67%"
+    },
+    "13": {
+      "correct": 6,
+      "total": 13,
+      "accuracy": 0.4615,
+      "accuracy_percent": "46.15%"
+    },
+    "14": {
+      "correct": 4,
+      "total": 11,
+      "accuracy": 0.3636,
+      "accuracy_percent": "36.36%"
+    },
+    "15": {
+      "correct": 2,
+      "total": 6,
+      "accuracy": 0.3333,
+      "accuracy_percent": "33.33%"
+    },
+    "16": {
+      "correct": 33,
+      "total": 45,
+      "accuracy": 0.7333,
+      "accuracy_percent": "73.33%"
+    },
+    "2": {
+      "correct": 5,
+      "total": 29,
+      "accuracy": 0.1724,
+      "accuracy_percent": "17.24%"
+    },
+    "3": {
+      "correct": 4,
+      "total": 14,
+      "accuracy": 0.2857,
+      "accuracy_percent": "28.57%"
+    },
+    "4": {
+      "correct": 0,
+      "total": 12,
+      "accuracy": 0.0,
+      "accuracy_percent": "0.00%"
+    },
+    "5": {
+      "correct": 0,
+      "total": 8,
+      "accuracy": 0.0,
+      "accuracy_percent": "0.00%"
+    },
+    "6": {
+      "correct": 0,
+      "total": 12,
+      "accuracy": 0.0,
+      "accuracy_percent": "0.00%"
+    },
+    "7": {
+      "correct": 9,
+      "total": 11,
+      "accuracy": 0.8182,
+      "accuracy_percent": "81.82%"
+    },
+    "8": {
+      "correct": 2,
+      "total": 8,
+      "accuracy": 0.25,
+      "accuracy_percent": "25.00%"
+    },
+    "9": {
+      "correct": 14,
+      "total": 14,
+      "accuracy": 1.0,
+      "accuracy_percent": "100.00%"
+    }
+  },
+  "per_trigger": {
+    "object": {
+      "correct": 37,
+      "total": 136,
+      "accuracy": 0.2721,
+      "accuracy_percent": "27.21%"
+    },
+    "time": {
+      "correct": 56,
+      "total": 84,
+      "accuracy": 0.6667,
+      "accuracy_percent": "66.67%"
+    }
+  },
+  "per_category": {
+    "Navigation": {
+      "correct": 34,
+      "total": 63,
+      "accuracy": 0.5397,
+      "accuracy_percent": "53.97%"
+    },
+    "Object Information": {
+      "correct": 7,
+      "total": 38,
+      "accuracy": 0.1842,
+      "accuracy_percent": "18.42%"
+    },
+    "Safety": {
+      "correct": 13,
+      "total": 57,
+      "accuracy": 0.2281,
+      "accuracy_percent": "22.81%"
+    },
+    "Vicinity Awareness": {
+      "correct": 39,
+      "total": 62,
+      "accuracy": 0.629,
+      "accuracy_percent": "62.90%"
+    }
+  }
+}
